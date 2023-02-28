@@ -9,8 +9,6 @@ Before running the project, let's make sure you are all set up properly. You wil
 
 ## What the project looks like
 
-We'll be building this awesome maze generator and solver! By the end, your code will be rendering mazes like this one:
-
 ![maze](https://i.imgur.com/RehzDga.gif)
 
 ## How to run the project
