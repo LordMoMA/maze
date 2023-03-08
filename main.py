@@ -17,12 +17,12 @@ def main():
 
     maze = Maze(margin, margin, num_rows, num_cols, cell_size_x, cell_size_y, win, 10)
 
-    print("maze created")
+    print("Adventure Begins!")
     is_solveable = maze.solve()
     if not is_solveable:
-        print("maze can not be solved!")
+        print("Adventure Failed!")
     else:
-        print("maze solved!")
+        print("We came, we saw, we conqured!😎")
     win.wait_for_close()
 
 
