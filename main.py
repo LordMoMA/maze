@@ -22,7 +22,7 @@ def main():
     if not is_solveable:
         print("Adventure Failed!")
     else:
-        print("We came, we saw, we conqured!😎")
+        print("Veni, Vidi, Vici!😎")
     win.wait_for_close()
 
 
